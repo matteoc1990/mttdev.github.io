@@ -1,0 +1,7 @@
+<header id="header">
+
+	<a href="{{ site.baseurl }}">
+		<!--<img src="{{ "img/logo.jpg" | prepend: site.baseurl }}" alt="A-team Logo"> !-->
+	  <h1>The A-team</h1>
+	</a>
+</header>
