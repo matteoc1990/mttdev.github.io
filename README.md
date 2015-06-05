@@ -1,5 +1,3 @@
-# telnext.github.io
-
 Aggiungere un post
 ------------------
 
