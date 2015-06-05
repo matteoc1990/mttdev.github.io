@@ -1,9 +1,9 @@
 # Site settings
-title: A-team | A simple Jekyll blog
+title: Blog-team | A simple Jekyll blog
 description: "A minimal blog template, build with Jekyll."
 
 # Build settings
-baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / #Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
